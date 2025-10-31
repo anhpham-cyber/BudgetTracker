@@ -1,6 +1,7 @@
 # Budget Tracker
 
-This is a simple Python program that helps manage and track personal budgets across different categories such as **Food**, **Clothing**, or **Entertainment**.  
+A Python budget app to track deposits, withdrawals, and transfers by category. Generates a simple text-based spending chart to visualize expenses. Built by me while learning Python on FreeCodeCamp as a hands-on practice project.
+
 It was created to practice working with **classes, methods, and data structures** in Python.
 
 ---
